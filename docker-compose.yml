@@ -1,0 +1,6 @@
+services:
+  subarray-search:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: subarray-search

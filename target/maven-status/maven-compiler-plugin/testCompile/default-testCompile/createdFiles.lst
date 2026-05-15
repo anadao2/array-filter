@@ -1,0 +1,10 @@
+com\teste\subarray\domain\port\in\SubarraySearchUseCaseContractTest.class
+com\teste\subarray\adapter\in\cli\CliAdapterTest.class
+com\teste\subarray\application\strategy\LinearSearchStrategyTest.class
+com\teste\subarray\domain\model\SearchRequestTest.class
+com\teste\subarray\application\usecase\SubarraySearchServiceTest.class
+com\teste\subarray\domain\validation\RequestValidatorContractTest.class
+com\teste\subarray\domain\validation\SearchRequestValidatorTest.class
+com\teste\subarray\domain\port\out\UniverseRepositoryContractTest.class
+com\teste\subarray\application\strategy\SubarraySearchStrategyContractTest.class
+com\teste\subarray\domain\model\SearchResultTest.class

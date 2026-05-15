@@ -1,0 +1,10 @@
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\adapter\in\cli\CliAdapterTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\application\strategy\LinearSearchStrategyTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\application\strategy\SubarraySearchStrategyContractTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\application\usecase\SubarraySearchServiceTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\domain\model\SearchRequestTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\domain\model\SearchResultTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\domain\port\in\SubarraySearchUseCaseContractTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\domain\port\out\UniverseRepositoryContractTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\domain\validation\RequestValidatorContractTest.java
+D:\workspace\git\teste_via_varejo\src\test\java\com\teste\subarray\domain\validation\SearchRequestValidatorTest.java

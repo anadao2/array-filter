@@ -1,0 +1,15 @@
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\adapter\config\AppFactory.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\adapter\in\cli\CliAdapter.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\adapter\in\cli\Main.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\application\strategy\LinearSearchStrategy.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\application\strategy\SubarraySearchStrategy.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\application\usecase\SubarraySearchService.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\exception\InvalidSearchRequestException.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\factory\SearchRequestFactory.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\model\SearchRequest.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\model\SearchResult.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\port\in\SubarraySearchUseCase.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\port\out\UniverseRepository.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\validation\RequestValidator.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\domain\validation\SearchRequestValidator.java
+D:\workspace\git\teste_via_varejo\src\main\java\com\teste\subarray\infrastructure\repository\InMemoryUniverseRepository.java

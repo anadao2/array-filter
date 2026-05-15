@@ -1,0 +1,16 @@
+com\teste\subarray\domain\factory\SearchRequestFactory.class
+com\teste\subarray\domain\port\out\UniverseRepository.class
+com\teste\subarray\adapter\config\AppFactory$Builder.class
+com\teste\subarray\adapter\in\cli\Main.class
+com\teste\subarray\domain\exception\InvalidSearchRequestException.class
+com\teste\subarray\application\strategy\LinearSearchStrategy.class
+com\teste\subarray\domain\validation\SearchRequestValidator.class
+com\teste\subarray\application\usecase\SubarraySearchService.class
+com\teste\subarray\domain\validation\RequestValidator.class
+com\teste\subarray\domain\model\SearchResult.class
+com\teste\subarray\adapter\in\cli\CliAdapter.class
+com\teste\subarray\domain\model\SearchRequest.class
+com\teste\subarray\infrastructure\repository\InMemoryUniverseRepository.class
+com\teste\subarray\domain\port\in\SubarraySearchUseCase.class
+com\teste\subarray\application\strategy\SubarraySearchStrategy.class
+com\teste\subarray\adapter\config\AppFactory.class
